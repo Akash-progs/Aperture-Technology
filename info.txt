@@ -1,2 +1,4 @@
 Hello there this info file is added
 2nd line added
+3rd line is added from feature branch 1
+
